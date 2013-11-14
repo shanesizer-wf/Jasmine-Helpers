@@ -1,0 +1,11 @@
+{
+  "name": "jasmine-Helpers",
+  "version": "0.0.1",
+  "description": "Additional Jasmine Matchers",
+  "keywords": [
+    "jasmine",
+    "component"
+  ],
+  "main": "SpecHelper.js",
+  "license": "MIT"
+}
